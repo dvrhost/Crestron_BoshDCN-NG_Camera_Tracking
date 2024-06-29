@@ -1,0 +1,43 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.2200.00
+  IsProgram=1
+  TopLevelProgram=DCNNGCamTrack.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCamTrack.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCamTrack.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCamTrack.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCamTrack.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCamTrack.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=DCNNGCameraTracking.ush
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=BoschPTZPresets.clz
+  Scope=1
+  Module=DCNNGCameraTracking.ush
+[END]
